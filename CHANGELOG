@@ -1,3 +1,9 @@
+ethernet4pizero-poe-prerelease (2.0-1) unstable; urgency=medium
+
+  * Fixed version number in silkscreen and schematics document label
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Sat, 01 Feb 2025 18:46:50 +0100
+
 ethernet4pizero-poe-prerelease (2.0) unstable; urgency=medium
 
   * Initial

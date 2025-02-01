@@ -10813,7 +10813,7 @@
 		(layer "Edge.Cuts")
 		(uuid "b794d099-f823-4d35-9755-ca1c45247ee9")
 	)
-	(gr_text "ethernet4pizero-poe-1.2"
+	(gr_text "ethernet4pizero-poe-2.0"
 		(at 83.75 77.5 0)
 		(layer "F.SilkS")
 		(uuid "0ad8fe69-ba1b-4d08-9b4a-0bfa0055bad9")

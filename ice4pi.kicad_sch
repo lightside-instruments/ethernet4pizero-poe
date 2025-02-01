@@ -5,7 +5,7 @@
 	(uuid "0f54db53-a272-4955-88fb-d7ab00657bb0")
 	(paper "A4")
 	(title_block
-		(title "ethernet4pizero-poe-1.0")
+		(title "ethernet4pizero-poe-2.0")
 		(company "Lightside Instruments AS")
 	)
 	(lib_symbols
@@ -7574,7 +7574,6 @@
 	)
 	(label "TPOUT-"
 		(at 46.99 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7585,7 +7584,6 @@
 	)
 	(label "LEDA"
 		(at 99.06 25.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7596,7 +7594,6 @@
 	)
 	(label "TPOUT+"
 		(at 97.79 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7607,7 +7604,6 @@
 	)
 	(label "CS0"
 		(at 175.26 25.4 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7618,7 +7614,6 @@
 	)
 	(label "SI"
 		(at 57.15 30.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7629,7 +7624,6 @@
 	)
 	(label "INT1"
 		(at 185.42 77.47 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7640,7 +7634,6 @@
 	)
 	(label "LEDB"
 		(at 99.06 27.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7651,7 +7644,6 @@
 	)
 	(label "TPIN+"
 		(at 48.26 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7662,7 +7654,6 @@
 	)
 	(label "SO"
 		(at 177.8 25.4 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7673,7 +7664,6 @@
 	)
 	(label "TPIN-"
 		(at 97.79 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7684,7 +7674,6 @@
 	)
 	(label "CS0"
 		(at 71.12 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7695,7 +7684,6 @@
 	)
 	(label "INT0"
 		(at 91.44 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7706,7 +7694,6 @@
 	)
 	(label "SCK"
 		(at 57.15 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7717,7 +7704,6 @@
 	)
 	(label "TPOUT-"
 		(at 97.79 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7728,7 +7714,6 @@
 	)
 	(label "CLKOUT"
 		(at 36.83 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7739,7 +7724,6 @@
 	)
 	(label "SCK"
 		(at 182.88 25.4 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7750,7 +7734,6 @@
 	)
 	(label "INT"
 		(at 91.44 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7761,7 +7744,6 @@
 	)
 	(label "TPIN-"
 		(at 48.26 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7772,7 +7754,6 @@
 	)
 	(label "INT0"
 		(at 182.88 77.47 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7783,7 +7764,6 @@
 	)
 	(label "CS"
 		(at 57.15 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7794,7 +7774,6 @@
 	)
 	(label "LEDB"
 		(at 109.22 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7805,7 +7784,6 @@
 	)
 	(label "CS"
 		(at 71.12 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7816,7 +7794,6 @@
 	)
 	(label "INT1"
 		(at 91.44 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7827,7 +7804,6 @@
 	)
 	(label "LEDA"
 		(at 109.22 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7838,7 +7814,6 @@
 	)
 	(label "SI"
 		(at 180.34 25.4 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7849,7 +7824,6 @@
 	)
 	(label "SO"
 		(at 57.15 33.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7860,7 +7834,6 @@
 	)
 	(label "TPOUT+"
 		(at 46.99 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7871,7 +7844,6 @@
 	)
 	(label "TPIN+"
 		(at 97.79 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7882,7 +7854,6 @@
 	)
 	(label "INT"
 		(at 57.15 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7893,7 +7864,6 @@
 	)
 	(label "CS1"
 		(at 71.12 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7904,7 +7874,6 @@
 	)
 	(label "CLKOUT"
 		(at 165.1 19.05 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7915,7 +7884,6 @@
 	)
 	(label "CS1"
 		(at 172.72 25.4 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
