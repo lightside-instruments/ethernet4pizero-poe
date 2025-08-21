@@ -1,3 +1,9 @@
+ethernet4pizero-poe-prerelease (2.0-3) unstable; urgency=medium
+
+  * BOM correction RJ45_Amphenol_RJMG1BD3B8K1ANR -> RJ45_Abracon_ARJP11A-MA_Horizontal
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Thu, 21 Aug 2025 13:12:10 +0200
+
 ethernet4pizero-poe-prerelease (2.0-2) unstable; urgency=medium
 
   * Added powermod as submodule (powermod-tps54260-1.4)
