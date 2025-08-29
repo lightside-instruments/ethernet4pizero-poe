@@ -1,3 +1,9 @@
+ethernet4pizero-poe-prerelease (2.0-4) trixie; urgency=medium
+
+  * Upgraded to KiCAD 9
+
+ --  <vladimir@lightside-instruments.com>  Fri, 29 Aug 2025 23:49:19 +0200
+
 ethernet4pizero-poe-prerelease (2.0-3) unstable; urgency=medium
 
   * BOM correction RJ45_Amphenol_RJMG1BD3B8K1ANR -> RJ45_Abracon_ARJP11A-MA_Horizontal
