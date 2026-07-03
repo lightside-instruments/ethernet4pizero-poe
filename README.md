@@ -1,0 +1,18 @@
+```
+The ethernet4pizero-poe project is open hardware design of a Raspbery Pi
+shield that adds Ethernet over SPI connectivity with the ENC28J60 IC and
+Power over Ethernet (POE) capability that can supply 2A at 5V.
+
+The powermod directory contains design of a submodule board to handle DC-DC
+conversion. The powermod submodule interface is generic and the
+implementation added is based on tps54260. 
+
+The project includes schematics and PCB
+design files for KiCAD. The board can be used with
+the dtoverlay=enc28j60 option added to /boot/config.txt.
+
+The project is published by Lightside Instruments AS
+under TAPR Open Hardware License. Read the LICENSE file
+for details.
+```
+![board](board.png)

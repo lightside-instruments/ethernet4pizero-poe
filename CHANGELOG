@@ -1,11 +1,5 @@
-ethernet4pizero (1.0-1) jammy; urgency=medium
+ethernet4pizero-poe (2.0) trixie; urgency=medium
 
-  * Fixed wrong JLCPCB part number for the DSC1001DI1-025.0000T clock oscillator IC.
+  * Initial
 
- -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Fri, 09 Aug 2024 12:53:01 +0200
-
-ethernet4pizero (1.0) jammy; urgency=medium
-
-  * Initial release
-
- -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Sat, 22 Apr 2023 01:11:12 +0200
+ -- Joar Heimonen <joar@lightside-instruments.com>  Fri, 03 Jul 2026 20:06:06 +0200
